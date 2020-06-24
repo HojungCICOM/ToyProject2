@@ -1,0 +1,170 @@
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy\AspDotNetCoreVueJs\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy\AspDotNetCoreVueJs\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy\AspDotNetCoreVueJs\bin\Debug\netcoreapp2.2\package-lock.json
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy\AspDotNetCoreVueJs\bin\Debug\netcoreapp2.2\package.json
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy\AspDotNetCoreVueJs\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy\AspDotNetCoreVueJs\bin\Debug\netcoreapp2.2\AspDotNetCoreVueJs.deps.json
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy\AspDotNetCoreVueJs\bin\Debug\netcoreapp2.2\AspDotNetCoreVueJs.runtimeconfig.json
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy\AspDotNetCoreVueJs\bin\Debug\netcoreapp2.2\AspDotNetCoreVueJs.runtimeconfig.dev.json
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy\AspDotNetCoreVueJs\bin\Debug\netcoreapp2.2\AspDotNetCoreVueJs.dll
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy\AspDotNetCoreVueJs\bin\Debug\netcoreapp2.2\AspDotNetCoreVueJs.pdb
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy\AspDotNetCoreVueJs\bin\Debug\netcoreapp2.2\AspDotNetCoreVueJs.Views.dll
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy\AspDotNetCoreVueJs\bin\Debug\netcoreapp2.2\AspDotNetCoreVueJs.Views.pdb
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\AspDotNetCoreVueJs.csprojAssemblyReference.cache
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\AspDotNetCoreVueJs.RazorAssemblyInfo.cache
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\AspDotNetCoreVueJs.RazorAssemblyInfo.cs
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\AspDotNetCoreVueJs.AssemblyInfoInputs.cache
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\AspDotNetCoreVueJs.AssemblyInfo.cs
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\AspDotNetCoreVueJs.TagHelpers.input.cache
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\AspDotNetCoreVueJs.TagHelpers.output.cache
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\AspDotNetCoreVueJs.RazorCoreGenerate.cache
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\AspDotNetCoreVueJs.RazorTargetAssemblyInfo.cache
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\AspDotNetCoreVueJs.RazorTargetAssemblyInfo.cs
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\AspDotNetCoreVueJs.Views.pdb
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\AspDotNetCoreVueJs.dll
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\AspDotNetCoreVueJs.pdb
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\AspDotNetCoreVueJs.csproj.CopyComplete
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy - Copy\AspDotNetCoreVueJs\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy - Copy\AspDotNetCoreVueJs\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy - Copy\AspDotNetCoreVueJs\bin\Debug\netcoreapp2.2\package-lock.json
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy - Copy\AspDotNetCoreVueJs\bin\Debug\netcoreapp2.2\package.json
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy - Copy\AspDotNetCoreVueJs\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy - Copy\AspDotNetCoreVueJs\bin\Debug\netcoreapp2.2\AspDotNetCoreVueJs.deps.json
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy - Copy\AspDotNetCoreVueJs\bin\Debug\netcoreapp2.2\AspDotNetCoreVueJs.runtimeconfig.json
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy - Copy\AspDotNetCoreVueJs\bin\Debug\netcoreapp2.2\AspDotNetCoreVueJs.runtimeconfig.dev.json
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy - Copy\AspDotNetCoreVueJs\bin\Debug\netcoreapp2.2\AspDotNetCoreVueJs.dll
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy - Copy\AspDotNetCoreVueJs\bin\Debug\netcoreapp2.2\AspDotNetCoreVueJs.pdb
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy - Copy\AspDotNetCoreVueJs\bin\Debug\netcoreapp2.2\AspDotNetCoreVueJs.Views.dll
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy - Copy\AspDotNetCoreVueJs\bin\Debug\netcoreapp2.2\AspDotNetCoreVueJs.Views.pdb
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy - Copy\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\AspDotNetCoreVueJs.csprojAssemblyReference.cache
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy - Copy\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\AspDotNetCoreVueJs.RazorAssemblyInfo.cache
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy - Copy\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\AspDotNetCoreVueJs.RazorAssemblyInfo.cs
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy - Copy\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\AspDotNetCoreVueJs.AssemblyInfoInputs.cache
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy - Copy\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\AspDotNetCoreVueJs.AssemblyInfo.cs
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy - Copy\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\AspDotNetCoreVueJs.TagHelpers.input.cache
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy - Copy\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\AspDotNetCoreVueJs.TagHelpers.output.cache
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy - Copy\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\AspDotNetCoreVueJs.RazorCoreGenerate.cache
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy - Copy\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy - Copy\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy - Copy\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy - Copy\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy - Copy\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy - Copy\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy - Copy\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy - Copy\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy - Copy\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\AspDotNetCoreVueJs.RazorTargetAssemblyInfo.cache
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy - Copy\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\AspDotNetCoreVueJs.RazorTargetAssemblyInfo.cs
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy - Copy\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\AspDotNetCoreVueJs.Views.pdb
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy - Copy\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\AspDotNetCoreVueJs.dll
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy - Copy\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\AspDotNetCoreVueJs.pdb
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy - Copy\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\AspDotNetCoreVueJs.csproj.CopyComplete
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy - Copy\Nuclear\AspDotNetCoreVueJs\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy - Copy\Nuclear\AspDotNetCoreVueJs\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy - Copy\Nuclear\AspDotNetCoreVueJs\bin\Debug\netcoreapp2.2\package-lock.json
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy - Copy\Nuclear\AspDotNetCoreVueJs\bin\Debug\netcoreapp2.2\package.json
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy - Copy\Nuclear\AspDotNetCoreVueJs\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy - Copy\Nuclear\AspDotNetCoreVueJs\bin\Debug\netcoreapp2.2\AspDotNetCoreVueJs.deps.json
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy - Copy\Nuclear\AspDotNetCoreVueJs\bin\Debug\netcoreapp2.2\AspDotNetCoreVueJs.runtimeconfig.json
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy - Copy\Nuclear\AspDotNetCoreVueJs\bin\Debug\netcoreapp2.2\AspDotNetCoreVueJs.runtimeconfig.dev.json
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy - Copy\Nuclear\AspDotNetCoreVueJs\bin\Debug\netcoreapp2.2\AspDotNetCoreVueJs.dll
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy - Copy\Nuclear\AspDotNetCoreVueJs\bin\Debug\netcoreapp2.2\AspDotNetCoreVueJs.pdb
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy - Copy\Nuclear\AspDotNetCoreVueJs\bin\Debug\netcoreapp2.2\AspDotNetCoreVueJs.Views.dll
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy - Copy\Nuclear\AspDotNetCoreVueJs\bin\Debug\netcoreapp2.2\AspDotNetCoreVueJs.Views.pdb
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy - Copy\Nuclear\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\AspDotNetCoreVueJs.csprojAssemblyReference.cache
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy - Copy\Nuclear\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\AspDotNetCoreVueJs.RazorAssemblyInfo.cache
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy - Copy\Nuclear\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\AspDotNetCoreVueJs.RazorAssemblyInfo.cs
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy - Copy\Nuclear\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\AspDotNetCoreVueJs.AssemblyInfoInputs.cache
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy - Copy\Nuclear\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\AspDotNetCoreVueJs.AssemblyInfo.cs
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy - Copy\Nuclear\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\AspDotNetCoreVueJs.TagHelpers.input.cache
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy - Copy\Nuclear\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\AspDotNetCoreVueJs.TagHelpers.output.cache
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy - Copy\Nuclear\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\AspDotNetCoreVueJs.RazorCoreGenerate.cache
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy - Copy\Nuclear\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy - Copy\Nuclear\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy - Copy\Nuclear\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy - Copy\Nuclear\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy - Copy\Nuclear\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy - Copy\Nuclear\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy - Copy\Nuclear\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy - Copy\Nuclear\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy - Copy\Nuclear\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\AspDotNetCoreVueJs.RazorTargetAssemblyInfo.cache
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy - Copy\Nuclear\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\AspDotNetCoreVueJs.RazorTargetAssemblyInfo.cs
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy - Copy\Nuclear\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\AspDotNetCoreVueJs.Views.pdb
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy - Copy\Nuclear\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\AspDotNetCoreVueJs.dll
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy - Copy\Nuclear\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\AspDotNetCoreVueJs.pdb
+C:\Users\DESKTOP-08\Desktop\Asp_Net_Core2_2_VueJs_WebPack - Copy - Copy\Nuclear\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\AspDotNetCoreVueJs.csproj.CopyComplete
+C:\Users\DESKTOP-08\Desktop\ToyProject\Nuclear\AspDotNetCoreVueJs\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\DESKTOP-08\Desktop\ToyProject\Nuclear\AspDotNetCoreVueJs\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\DESKTOP-08\Desktop\ToyProject\Nuclear\AspDotNetCoreVueJs\bin\Debug\netcoreapp2.2\package-lock.json
+C:\Users\DESKTOP-08\Desktop\ToyProject\Nuclear\AspDotNetCoreVueJs\bin\Debug\netcoreapp2.2\package.json
+C:\Users\DESKTOP-08\Desktop\ToyProject\Nuclear\AspDotNetCoreVueJs\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\DESKTOP-08\Desktop\ToyProject\Nuclear\AspDotNetCoreVueJs\bin\Debug\netcoreapp2.2\AspDotNetCoreVueJs.deps.json
+C:\Users\DESKTOP-08\Desktop\ToyProject\Nuclear\AspDotNetCoreVueJs\bin\Debug\netcoreapp2.2\AspDotNetCoreVueJs.runtimeconfig.json
+C:\Users\DESKTOP-08\Desktop\ToyProject\Nuclear\AspDotNetCoreVueJs\bin\Debug\netcoreapp2.2\AspDotNetCoreVueJs.runtimeconfig.dev.json
+C:\Users\DESKTOP-08\Desktop\ToyProject\Nuclear\AspDotNetCoreVueJs\bin\Debug\netcoreapp2.2\AspDotNetCoreVueJs.dll
+C:\Users\DESKTOP-08\Desktop\ToyProject\Nuclear\AspDotNetCoreVueJs\bin\Debug\netcoreapp2.2\AspDotNetCoreVueJs.pdb
+C:\Users\DESKTOP-08\Desktop\ToyProject\Nuclear\AspDotNetCoreVueJs\bin\Debug\netcoreapp2.2\AspDotNetCoreVueJs.Views.dll
+C:\Users\DESKTOP-08\Desktop\ToyProject\Nuclear\AspDotNetCoreVueJs\bin\Debug\netcoreapp2.2\AspDotNetCoreVueJs.Views.pdb
+C:\Users\DESKTOP-08\Desktop\ToyProject\Nuclear\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\AspDotNetCoreVueJs.csprojAssemblyReference.cache
+C:\Users\DESKTOP-08\Desktop\ToyProject\Nuclear\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\AspDotNetCoreVueJs.RazorAssemblyInfo.cache
+C:\Users\DESKTOP-08\Desktop\ToyProject\Nuclear\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\AspDotNetCoreVueJs.RazorAssemblyInfo.cs
+C:\Users\DESKTOP-08\Desktop\ToyProject\Nuclear\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\AspDotNetCoreVueJs.AssemblyInfoInputs.cache
+C:\Users\DESKTOP-08\Desktop\ToyProject\Nuclear\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\AspDotNetCoreVueJs.AssemblyInfo.cs
+C:\Users\DESKTOP-08\Desktop\ToyProject\Nuclear\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\AspDotNetCoreVueJs.TagHelpers.input.cache
+C:\Users\DESKTOP-08\Desktop\ToyProject\Nuclear\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\AspDotNetCoreVueJs.TagHelpers.output.cache
+C:\Users\DESKTOP-08\Desktop\ToyProject\Nuclear\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\AspDotNetCoreVueJs.RazorCoreGenerate.cache
+C:\Users\DESKTOP-08\Desktop\ToyProject\Nuclear\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\DESKTOP-08\Desktop\ToyProject\Nuclear\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\DESKTOP-08\Desktop\ToyProject\Nuclear\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\DESKTOP-08\Desktop\ToyProject\Nuclear\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\DESKTOP-08\Desktop\ToyProject\Nuclear\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\DESKTOP-08\Desktop\ToyProject\Nuclear\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\DESKTOP-08\Desktop\ToyProject\Nuclear\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\DESKTOP-08\Desktop\ToyProject\Nuclear\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\DESKTOP-08\Desktop\ToyProject\Nuclear\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\AspDotNetCoreVueJs.RazorTargetAssemblyInfo.cache
+C:\Users\DESKTOP-08\Desktop\ToyProject\Nuclear\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\AspDotNetCoreVueJs.RazorTargetAssemblyInfo.cs
+C:\Users\DESKTOP-08\Desktop\ToyProject\Nuclear\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\AspDotNetCoreVueJs.Views.pdb
+C:\Users\DESKTOP-08\Desktop\ToyProject\Nuclear\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\AspDotNetCoreVueJs.dll
+C:\Users\DESKTOP-08\Desktop\ToyProject\Nuclear\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\AspDotNetCoreVueJs.pdb
+C:\Users\DESKTOP-08\Desktop\ToyProject\Nuclear\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\AspDotNetCoreVueJs.csproj.CopyComplete
+C:\Users\DESKTOP-08\Desktop\Toy-Project\ToyProject\AspDotNetCoreVueJs\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\DESKTOP-08\Desktop\Toy-Project\ToyProject\AspDotNetCoreVueJs\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\DESKTOP-08\Desktop\Toy-Project\ToyProject\AspDotNetCoreVueJs\bin\Debug\netcoreapp2.2\package-lock.json
+C:\Users\DESKTOP-08\Desktop\Toy-Project\ToyProject\AspDotNetCoreVueJs\bin\Debug\netcoreapp2.2\package.json
+C:\Users\DESKTOP-08\Desktop\Toy-Project\ToyProject\AspDotNetCoreVueJs\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\DESKTOP-08\Desktop\Toy-Project\ToyProject\AspDotNetCoreVueJs\bin\Debug\netcoreapp2.2\AspDotNetCoreVueJs.deps.json
+C:\Users\DESKTOP-08\Desktop\Toy-Project\ToyProject\AspDotNetCoreVueJs\bin\Debug\netcoreapp2.2\AspDotNetCoreVueJs.runtimeconfig.json
+C:\Users\DESKTOP-08\Desktop\Toy-Project\ToyProject\AspDotNetCoreVueJs\bin\Debug\netcoreapp2.2\AspDotNetCoreVueJs.runtimeconfig.dev.json
+C:\Users\DESKTOP-08\Desktop\Toy-Project\ToyProject\AspDotNetCoreVueJs\bin\Debug\netcoreapp2.2\AspDotNetCoreVueJs.dll
+C:\Users\DESKTOP-08\Desktop\Toy-Project\ToyProject\AspDotNetCoreVueJs\bin\Debug\netcoreapp2.2\AspDotNetCoreVueJs.pdb
+C:\Users\DESKTOP-08\Desktop\Toy-Project\ToyProject\AspDotNetCoreVueJs\bin\Debug\netcoreapp2.2\AspDotNetCoreVueJs.Views.dll
+C:\Users\DESKTOP-08\Desktop\Toy-Project\ToyProject\AspDotNetCoreVueJs\bin\Debug\netcoreapp2.2\AspDotNetCoreVueJs.Views.pdb
+C:\Users\DESKTOP-08\Desktop\Toy-Project\ToyProject\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\AspDotNetCoreVueJs.csprojAssemblyReference.cache
+C:\Users\DESKTOP-08\Desktop\Toy-Project\ToyProject\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\AspDotNetCoreVueJs.RazorAssemblyInfo.cache
+C:\Users\DESKTOP-08\Desktop\Toy-Project\ToyProject\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\AspDotNetCoreVueJs.RazorAssemblyInfo.cs
+C:\Users\DESKTOP-08\Desktop\Toy-Project\ToyProject\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\AspDotNetCoreVueJs.AssemblyInfoInputs.cache
+C:\Users\DESKTOP-08\Desktop\Toy-Project\ToyProject\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\AspDotNetCoreVueJs.AssemblyInfo.cs
+C:\Users\DESKTOP-08\Desktop\Toy-Project\ToyProject\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\AspDotNetCoreVueJs.TagHelpers.input.cache
+C:\Users\DESKTOP-08\Desktop\Toy-Project\ToyProject\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\AspDotNetCoreVueJs.TagHelpers.output.cache
+C:\Users\DESKTOP-08\Desktop\Toy-Project\ToyProject\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\AspDotNetCoreVueJs.RazorCoreGenerate.cache
+C:\Users\DESKTOP-08\Desktop\Toy-Project\ToyProject\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\DESKTOP-08\Desktop\Toy-Project\ToyProject\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\DESKTOP-08\Desktop\Toy-Project\ToyProject\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\DESKTOP-08\Desktop\Toy-Project\ToyProject\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\DESKTOP-08\Desktop\Toy-Project\ToyProject\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\DESKTOP-08\Desktop\Toy-Project\ToyProject\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\DESKTOP-08\Desktop\Toy-Project\ToyProject\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\DESKTOP-08\Desktop\Toy-Project\ToyProject\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\DESKTOP-08\Desktop\Toy-Project\ToyProject\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\AspDotNetCoreVueJs.RazorTargetAssemblyInfo.cache
+C:\Users\DESKTOP-08\Desktop\Toy-Project\ToyProject\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\AspDotNetCoreVueJs.RazorTargetAssemblyInfo.cs
+C:\Users\DESKTOP-08\Desktop\Toy-Project\ToyProject\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\AspDotNetCoreVueJs.Views.pdb
+C:\Users\DESKTOP-08\Desktop\Toy-Project\ToyProject\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\AspDotNetCoreVueJs.dll
+C:\Users\DESKTOP-08\Desktop\Toy-Project\ToyProject\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\AspDotNetCoreVueJs.pdb
+C:\Users\DESKTOP-08\Desktop\Toy-Project\ToyProject\AspDotNetCoreVueJs\obj\Debug\netcoreapp2.2\AspDotNetCoreVueJs.csproj.CopyComplete
